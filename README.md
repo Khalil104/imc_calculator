@@ -17,7 +17,7 @@ Ce projet est une application web permettant de calculer l'Indice de Masse Corpo
 - **Bootstrap** : Framework CSS pour une mise en page réactive et moderne.
 
 ## Déploiement
-Ce site est déployé sur Github Pages. Vous pouvez tester l'application ici : [Calculateur_d'IMC] (#) *(https://khalil104.github.io/imc_calculator)*
+Ce site est déployé sur Github Pages. Vous pouvez tester l'application ici : [Calculateur_d'IMC] *(https://khalil104.github.io/imc_calculator)*
 
 ## Usage
 - Entrez votre poids en kilogrammes (kg) et votre taille en mètres (m).
